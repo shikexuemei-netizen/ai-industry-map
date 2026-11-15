@@ -1,0 +1,96 @@
+name: 每日更新 AI 产业信息
+
+# 每天北京时间 09:30（UTC 01:30）自动更新
+# 注意：GitHub Actions 的 cron 一律使用 UTC，不能用本地时区。
+on:
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch: {}   # 支持在 Actions 页面手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-ai-update
+  cancel-in-progress: false
+
+env:
+  # 仓库里存放的初始数据包（页面、脚本、结构定义都在里面）
+  SEED_ZIP: github-actions-setup_v3.zip
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 解出运行文件
+        run: |
+          set -e
+          echo "工作目录：$(pwd)"
+          ls -la
+          # 如果仓库里已经有解压后的脚本，直接用；否则从 zip 里解
+          if [ -f daily_update.py ]; then
+            echo "已存在脚本，跳过解压"
+          elif [ -f "$SEED_ZIP" ]; then
+            echo "从 $SEED_ZIP 解压"
+            python3 -c "import zipfile,sys; zipfile.ZipFile(sys.argv[1]).extractall('.')" "$SEED_ZIP"
+          else
+            echo "::error::找不到 daily_update.py，也找不到 $SEED_ZIP"
+            exit 1
+          fi
+          echo "--- 解压后 ---"
+          ls -la
+
+      - name: 抓取并生成日报、转换数据、刷新页面
+        id: update
+        run: |
+          python3 daily_update.py
+        continue-on-error: true
+
+      - name: 检查产出
+        id: check
+        run: |
+          if [ ! -f news.json ]; then
+            echo "::error::news.json 不存在，更新失败"
+            exit 1
+          fi
+          COUNT=$(python3 -c "import json;print(len(json.load(open('news.json'))['news']))")
+          echo "条目数：$COUNT"
+          if [ "$COUNT" -lt 3 ]; then
+            echo "::error::条目数 $COUNT < 3，判定为抓取异常，不提交"
+            exit 1
+          fi
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: 生成 GitHub Pages 入口
+        run: |
+          cp ai-industry-map.html index.html
+
+      - name: 提交变更
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json ai-industry-map.html index.html reports/ || true
+
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+            exit 0
+          fi
+
+          git commit -m "chore: 更新 AI 产业信息 $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')（${{ steps.check.outputs.count }} 条）"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          git push
+
+      - name: 失败时提示
+        if: steps.update.outcome == 'failure' || failure()
+        run: |
+          echo "::warning::本次更新未完成，仓库中保留上一版数据。请查看上一步日志中的抓取失败原因。"

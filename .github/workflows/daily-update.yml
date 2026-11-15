@@ -37,18 +37,37 @@ jobs:
           set -e
           echo "工作目录：$(pwd)"
           ls -la
-          # 如果仓库里已经有解压后的脚本，直接用；否则从 zip 里解
+
+          # 若脚本已在根目录，直接用
           if [ -f daily_update.py ]; then
-            echo "已存在脚本，跳过解压"
-          elif [ -f "$SEED_ZIP" ]; then
-            echo "从 $SEED_ZIP 解压"
-            python3 -c "import zipfile,sys; zipfile.ZipFile(sys.argv[1]).extractall('.')" "$SEED_ZIP"
-          else
+            echo "脚本已在根目录，跳过解压"
+            exit 0
+          fi
+
+          if [ ! -f "$SEED_ZIP" ]; then
             echo "::error::找不到 daily_update.py，也找不到 $SEED_ZIP"
             exit 1
           fi
-          echo "--- 解压后 ---"
+
+          # 解压到临时目录，再定位脚本所在层（zip 可能带一层顶层文件夹）
+          rm -rf .seed && mkdir -p .seed
+          python3 -c "import zipfile,sys; zipfile.ZipFile(sys.argv[1]).extractall('.seed')" "$SEED_ZIP"
+
+          SRC=$(find .seed -maxdepth 3 -name daily_update.py -printf '%h\n' | head -1)
+          if [ -z "$SRC" ]; then
+            echo "::error::压缩包里找不到 daily_update.py"
+            find .seed -maxdepth 3 -type f | head -30
+            exit 1
+          fi
+          echo "脚本所在目录：$SRC"
+
+          # 把脚本与页面平铺到仓库根目录（跳过 macOS 的 __MACOSX 垃圾）
+          cp -R "$SRC"/. ./
+          rm -rf __MACOSX .seed
+
+          echo "--- 平铺后 ---"
           ls -la
+          test -f daily_update.py
 
       - name: 抓取并生成日报、转换数据、刷新页面
         id: update

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-15 11:13",
-  "windowStart": "2026-11-14 11:13",
-  "windowEnd": "2026-11-15 11:13",
+  "generatedAt": "2026-11-15 10:13",
+  "windowStart": "2026-11-14 10:13",
+  "windowEnd": "2026-11-15 10:13",
   "hours": 24,
   "picked": [
     "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
     "Where was Nvidia’s security team?",
     "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-    "The AI graveyard: a running list of projects and startups that didn’t make it"
+    "突发！DeepSeek开放全家桶API",
+    "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了"
   ],
   "items": [
     {
@@ -35,6 +35,15 @@
       "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
       "source": "TechCrunch",
       "time": "11-15 00:34",
+      "time_inferred": false,
+      "score": 8
+    },
+    {
+      "title": "突发！DeepSeek开放全家桶API",
+      "url": "https://www.qbitai.com/2026/11/510003.html",
+      "summary": "官方App功能均可自由组合调用",
+      "source": "量子位",
+      "time": "11-14 10:39",
       "time_inferred": false,
       "score": 8
     },
@@ -116,7 +125,7 @@
       "source": "量子位",
       "status": "ok",
       "reason": null,
-      "count": 1
+      "count": 2
     },
     {
       "source": "量子位",

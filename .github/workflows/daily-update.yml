@@ -16,7 +16,7 @@ concurrency:
 
 env:
   # 仓库里存放的初始数据包（页面、脚本、结构定义都在里面）
-  SEED_ZIP: github-actions-setup_v3.zip
+    SEED_ZIP: github-actions-setup_v3_v1.zip
 
 jobs:
   update:

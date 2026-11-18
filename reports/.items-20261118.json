@@ -1,0 +1,361 @@
+{
+  "generatedAt": "2026-11-18 10:28",
+  "windowStart": "2026-11-17 10:28",
+  "windowEnd": "2026-11-18 10:28",
+  "hours": 24,
+  "picked": [
+    "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+    "Google makes it easier to use Gemini without training AI on your data",
+    "GatherHQ Agent Research",
+    "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+    "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+    "Google joins the tech outage trend by announcing it’s not having one",
+    "Waymo suspends freeway rides nationwide after California DMV order",
+    "Roundtables: Inside the Quest for Cognitive Immortality",
+    "OpenAI sued by California after admitting to 80 loss-of-control incidents"
+  ],
+  "items": [
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "source": "TechCrunch",
+      "time": "11-18 07:37",
+      "time_inferred": false,
+      "score": 13
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "source": "TechCrunch",
+      "time": "11-18 07:04",
+      "time_inferred": false,
+      "score": 13
+    },
+    {
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "source": "TechCrunch",
+      "time": "11-18 03:32",
+      "time_inferred": false,
+      "score": 12
+    },
+    {
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "source": "TechCrunch",
+      "time": "11-18 09:44",
+      "time_inferred": false,
+      "score": 9
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "source": "TechCrunch",
+      "time": "11-18 08:16",
+      "time_inferred": false,
+      "score": 8
+    },
+    {
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "source": "TechCrunch",
+      "time": "11-18 06:42",
+      "time_inferred": false,
+      "score": 8
+    },
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "source": "TechCrunch",
+      "time": "11-18 05:48",
+      "time_inferred": false,
+      "score": 8
+    },
+    {
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "source": "TechCrunch",
+      "time": "11-18 00:44",
+      "time_inferred": false,
+      "score": 8
+    },
+    {
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "summary": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and",
+      "source": "MIT Tech Review",
+      "time": "11-17 21:10",
+      "time_inferred": false,
+      "score": 8
+    },
+    {
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "source": "TechCrunch",
+      "time": "11-18 02:04",
+      "time_inferred": false,
+      "score": 7
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "source": "TechCrunch",
+      "time": "11-18 03:02",
+      "time_inferred": false,
+      "score": 6
+    },
+    {
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "source": "TechCrunch",
+      "time": "11-18 02:48",
+      "time_inferred": false,
+      "score": 6
+    },
+    {
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "source": "TechCrunch",
+      "time": "11-18 01:32",
+      "time_inferred": false,
+      "score": 6
+    },
+    {
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "source": "ArsTechnica",
+      "time": "11-18 00:50",
+      "time_inferred": false,
+      "score": 6
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "source": "TechCrunch",
+      "time": "11-18 06:29",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "source": "TechCrunch",
+      "time": "11-18 01:20",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "House Democrats promise a US return to global climate talks",
+      "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+      "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
+      "source": "ArsTechnica",
+      "time": "11-17 23:32",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "GatherHQ Agent Research",
+      "url": "https://www.producthunt.com/products/gatherhq-agent-research",
+      "summary": "Let your agent take surveys for you Discussion | Link",
+      "source": "Product Hunt",
+      "time": "11-17 11:18",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "source": "ArsTechnica",
+      "time": "11-18 04:32",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "source": "ArsTechnica",
+      "time": "11-18 08:27",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "source": "TechCrunch",
+      "time": "11-18 00:32",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "source": "ArsTechnica",
+      "time": "11-17 22:00",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+      "url": "https://www.qbitai.com/2026/11/510652.html",
+      "summary": "筛材料、找配方、开发新模型…拿下多项科研任务",
+      "source": "量子位",
+      "time": "11-17 14:09",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "source": "ArsTechnica",
+      "time": "11-18 06:32",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+      "source": "TechCrunch",
+      "time": "11-18 05:34",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "summary": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+      "source": "TechCrunch",
+      "time": "11-18 03:49",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain",
+      "source": "MIT Tech Review",
+      "time": "11-18 02:46",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "source": "ArsTechnica",
+      "time": "11-18 02:13",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "source": "TechCrunch",
+      "time": "11-18 02:10",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "source": "ArsTechnica",
+      "time": "11-18 02:00",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+      "url": "https://www.qbitai.com/2026/11/510688.html",
+      "summary": "瞄准「产业级世界模型」",
+      "source": "量子位",
+      "time": "11-17 19:40",
+      "time_inferred": false,
+      "score": 0
+    }
+  ],
+  "sourceReport": [
+    {
+      "source": "量子位",
+      "status": "ok",
+      "reason": null,
+      "count": 2
+    },
+    {
+      "source": "量子位",
+      "status": "failed",
+      "reason": "请求失败",
+      "count": 0
+    },
+    {
+      "source": "机器之心",
+      "status": "skipped",
+      "reason": "返回反爬 HTML 页面，无新闻内容",
+      "count": 0
+    },
+    {
+      "source": "36氪AI",
+      "status": "skipped",
+      "reason": "返回反爬 HTML 页面，无新闻内容",
+      "count": 0
+    },
+    {
+      "source": "TechCrunch",
+      "status": "ok",
+      "reason": null,
+      "count": 18
+    },
+    {
+      "source": "ArsTechnica",
+      "status": "ok",
+      "reason": null,
+      "count": 8
+    },
+    {
+      "source": "AI News",
+      "status": "skipped",
+      "reason": "HTTP 502",
+      "count": 0
+    },
+    {
+      "source": "MIT Tech Review",
+      "status": "ok",
+      "reason": null,
+      "count": 2
+    },
+    {
+      "source": "VentureBeat",
+      "status": "skipped",
+      "reason": "HTTP 429 限流",
+      "count": 0
+    },
+    {
+      "source": "Product Hunt",
+      "status": "ok",
+      "reason": null,
+      "count": 1
+    }
+  ]
+}

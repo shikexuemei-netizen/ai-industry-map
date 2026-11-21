@@ -1,0 +1,307 @@
+{
+  "generatedAt": "2026-11-21 10:23",
+  "windowStart": "2026-11-20 10:23",
+  "windowEnd": "2026-11-21 10:23",
+  "hours": 24,
+  "picked": [
+    "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+    "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+    "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+    "The most misunderstood graph in AI just got a major update",
+    "Mailpipe",
+    "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+    "Google rolls out new search homepage with AI chat history and no search button",
+    "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+    "NASA’s new Moon plan is taking shape, but some big questions remain",
+    "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax"
+  ],
+  "items": [
+    {
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "source": "TechCrunch",
+      "time": "11-20 21:21",
+      "time_inferred": false,
+      "score": 13
+    },
+    {
+      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "url": "https://www.qbitai.com/2026/11/511610.html",
+      "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+      "source": "量子位",
+      "time": "11-20 16:04",
+      "time_inferred": false,
+      "score": 7
+    },
+    {
+      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+      "source": "ArsTechnica",
+      "time": "11-21 03:52",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely",
+      "source": "MIT Tech Review",
+      "time": "11-21 02:15",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+      "source": "TechCrunch",
+      "time": "11-21 00:16",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "source": "ArsTechnica",
+      "time": "11-20 21:35",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "source": "ArsTechnica",
+      "time": "11-21 05:47",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+      "source": "TechCrunch",
+      "time": "11-20 21:25",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "source": "ArsTechnica",
+      "time": "11-21 04:59",
+      "time_inferred": false,
+      "score": 3
+    },
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "source": "TechCrunch",
+      "time": "11-21 03:53",
+      "time_inferred": false,
+      "score": 3
+    },
+    {
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "url": "https://www.qbitai.com/2026/11/511426.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "11-20 16:23",
+      "time_inferred": false,
+      "score": 3
+    },
+    {
+      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+      "url": "https://www.qbitai.com/2026/11/511582.html",
+      "summary": "已开源Agnes Harness",
+      "source": "量子位",
+      "time": "11-20 13:24",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "Mailpipe",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
+      "summary": "Draft Apple Mail replies with your local AI agent CLI Discussion | Link",
+      "source": "Product Hunt",
+      "time": "11-20 12:13",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "source": "ArsTechnica",
+      "time": "11-21 06:16",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "source": "ArsTechnica",
+      "time": "11-21 05:58",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "source": "TechCrunch",
+      "time": "11-21 04:58",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+      "source": "ArsTechnica",
+      "time": "11-21 04:26",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+      "url": "https://www.qbitai.com/2026/11/511722.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "11-21 04:23",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "source": "TechCrunch",
+      "time": "11-21 03:32",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+      "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+      "source": "ArsTechnica",
+      "time": "11-21 00:11",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "source": "TechCrunch",
+      "time": "11-20 22:00",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "summary": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond",
+      "source": "MIT Tech Review",
+      "time": "11-20 21:10",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+      "url": "https://www.qbitai.com/2026/11/511603.html",
+      "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
+      "source": "量子位",
+      "time": "11-20 14:16",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "greatai Review",
+      "url": "https://www.producthunt.com/products/greatai-review",
+      "summary": "Free AI + human code review for open source & nonprofits Discussion | Link",
+      "source": "Product Hunt",
+      "time": "11-20 12:56",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Lumyna Community Challenge",
+      "url": "https://www.producthunt.com/products/lumyna-community-challenge",
+      "summary": "A million virtual meters. A small pledge against hunger. Discussion | Link",
+      "source": "Product Hunt",
+      "time": "11-20 12:55",
+      "time_inferred": false,
+      "score": 0
+    }
+  ],
+  "sourceReport": [
+    {
+      "source": "量子位",
+      "status": "ok",
+      "reason": null,
+      "count": 3
+    },
+    {
+      "source": "量子位",
+      "status": "ok",
+      "reason": null,
+      "count": 2
+    },
+    {
+      "source": "机器之心",
+      "status": "skipped",
+      "reason": "返回反爬 HTML 页面，无新闻内容",
+      "count": 0
+    },
+    {
+      "source": "36氪AI",
+      "status": "skipped",
+      "reason": "返回反爬 HTML 页面，无新闻内容",
+      "count": 0
+    },
+    {
+      "source": "TechCrunch",
+      "status": "ok",
+      "reason": null,
+      "count": 7
+    },
+    {
+      "source": "ArsTechnica",
+      "status": "ok",
+      "reason": null,
+      "count": 8
+    },
+    {
+      "source": "AI News",
+      "status": "skipped",
+      "reason": "HTTP 502",
+      "count": 0
+    },
+    {
+      "source": "MIT Tech Review",
+      "status": "ok",
+      "reason": null,
+      "count": 2
+    },
+    {
+      "source": "VentureBeat",
+      "status": "skipped",
+      "reason": "HTTP 429 限流",
+      "count": 0
+    },
+    {
+      "source": "Product Hunt",
+      "status": "ok",
+      "reason": null,
+      "count": 3
+    }
+  ]
+}

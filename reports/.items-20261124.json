@@ -1,0 +1,383 @@
+{
+  "generatedAt": "2026-11-24 10:30",
+  "windowStart": "2026-11-23 10:30",
+  "windowEnd": "2026-11-24 10:30",
+  "hours": 24,
+  "picked": [
+    "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+    "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "Jensen Huang reinstated as Nvidia CEO, board chair",
+    "The Download: AI’s judgment problem and carbon removal’s crop threat",
+    "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off"
+  ],
+  "items": [
+    {
+      "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+      "url": "https://www.qbitai.com/2026/11/511978.html",
+      "summary": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
+      "source": "量子位",
+      "time": "11-23 11:13",
+      "time_inferred": false,
+      "score": 17
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "source": "TechCrunch",
+      "time": "11-24 06:05",
+      "time_inferred": false,
+      "score": 13
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "source": "TechCrunch",
+      "time": "11-23 22:43",
+      "time_inferred": false,
+      "score": 9
+    },
+    {
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "source": "TechCrunch",
+      "time": "11-24 04:38",
+      "time_inferred": false,
+      "score": 8
+    },
+    {
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "source": "TechCrunch",
+      "time": "11-24 02:12",
+      "time_inferred": false,
+      "score": 8
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "source": "ArsTechnica",
+      "time": "11-23 23:46",
+      "time_inferred": false,
+      "score": 8
+    },
+    {
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "source": "TechCrunch",
+      "time": "11-23 22:21",
+      "time_inferred": false,
+      "score": 8
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "source": "TechCrunch",
+      "time": "11-24 06:02",
+      "time_inferred": false,
+      "score": 7
+    },
+    {
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "source": "TechCrunch",
+      "time": "11-24 01:14",
+      "time_inferred": false,
+      "score": 7
+    },
+    {
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+      "source": "TechCrunch",
+      "time": "11-24 00:20",
+      "time_inferred": false,
+      "score": 7
+    },
+    {
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "source": "TechCrunch",
+      "time": "11-24 03:14",
+      "time_inferred": false,
+      "score": 6
+    },
+    {
+      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+      "url": "https://www.qbitai.com/2026/11/512195.html",
+      "summary": "零Token成本，断网也能自由Vibe Coding",
+      "source": "量子位",
+      "time": "11-23 19:01",
+      "time_inferred": false,
+      "score": 6
+    },
+    {
+      "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+      "url": "https://www.qbitai.com/2026/11/511998.html",
+      "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+      "source": "量子位",
+      "time": "11-23 11:56",
+      "time_inferred": false,
+      "score": 6
+    },
+    {
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "summary": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good",
+      "source": "MIT Tech Review",
+      "time": "11-23 21:10",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+      "url": "https://www.qbitai.com/2026/11/512004.html",
+      "summary": "一个完全由AI组成的科学家社会，是什么样？",
+      "source": "量子位",
+      "time": "11-23 14:59",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "source": "TechCrunch",
+      "time": "11-24 05:47",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "source": "TechCrunch",
+      "time": "11-24 03:31",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "source": "TechCrunch",
+      "time": "11-24 00:39",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "source": "TechCrunch",
+      "time": "11-23 23:04",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+      "url": "https://www.qbitai.com/2026/11/511989.html",
+      "summary": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+      "source": "量子位",
+      "time": "11-23 11:47",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+      "url": "https://www.qbitai.com/2026/11/512179.html",
+      "summary": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
+      "source": "量子位",
+      "time": "11-23 17:10",
+      "time_inferred": false,
+      "score": 3
+    },
+    {
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "source": "ArsTechnica",
+      "time": "11-23 20:00",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+      "source": "ArsTechnica",
+      "time": "11-24 05:58",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "source": "TechCrunch",
+      "time": "11-24 05:25",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Surveillance pricing uses our personal data to make us pay more",
+      "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+      "summary": "Personalized pricing can mean unfair, and even biased, prices.",
+      "source": "ArsTechnica",
+      "time": "11-24 04:11",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral",
+      "source": "MIT Tech Review",
+      "time": "11-24 01:36",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Meta throws out its net-zero goal — its competitors should be furious",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "summary": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "source": "TechCrunch",
+      "time": "11-24 01:13",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+      "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
+      "summary": "\"All of you have lived stolen lives. But now you must give them back.\"",
+      "source": "ArsTechnica",
+      "time": "11-23 23:55",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "summary": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
+      "source": "TechCrunch",
+      "time": "11-23 23:29",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
+      "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+      "summary": "COP31 ended without a consensus deal for the first time since 2009.",
+      "source": "ArsTechnica",
+      "time": "11-23 23:23",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Tri-screen portable monitors aren’t for the faint of heart",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+      "summary": "Three extra screens boost multitasking but can distract and overwhelm.",
+      "source": "ArsTechnica",
+      "time": "11-23 20:15",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models",
+      "source": "MIT Tech Review",
+      "time": "11-23 19:00",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+      "url": "https://www.qbitai.com/2026/11/512017.html",
+      "summary": "阿福大升级：让模型像医生一样思考",
+      "source": "量子位",
+      "time": "11-23 15:42",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+      "url": "https://www.qbitai.com/2026/11/511933.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "11-23 11:30",
+      "time_inferred": false,
+      "score": 0
+    }
+  ],
+  "sourceReport": [
+    {
+      "source": "量子位",
+      "status": "ok",
+      "reason": null,
+      "count": 7
+    },
+    {
+      "source": "量子位",
+      "status": "ok",
+      "reason": null,
+      "count": 1
+    },
+    {
+      "source": "机器之心",
+      "status": "skipped",
+      "reason": "返回反爬 HTML 页面，无新闻内容",
+      "count": 0
+    },
+    {
+      "source": "36氪AI",
+      "status": "skipped",
+      "reason": "返回反爬 HTML 页面，无新闻内容",
+      "count": 0
+    },
+    {
+      "source": "TechCrunch",
+      "status": "ok",
+      "reason": null,
+      "count": 16
+    },
+    {
+      "source": "ArsTechnica",
+      "status": "ok",
+      "reason": null,
+      "count": 7
+    },
+    {
+      "source": "AI News",
+      "status": "skipped",
+      "reason": "HTTP 502",
+      "count": 0
+    },
+    {
+      "source": "MIT Tech Review",
+      "status": "ok",
+      "reason": null,
+      "count": 3
+    },
+    {
+      "source": "VentureBeat",
+      "status": "skipped",
+      "reason": "HTTP 429 限流",
+      "count": 0
+    },
+    {
+      "source": "Product Hunt",
+      "status": "ok",
+      "reason": null,
+      "count": 0
+    }
+  ]
+}

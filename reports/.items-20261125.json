@@ -1,0 +1,438 @@
+{
+  "generatedAt": "2026-11-25 10:33",
+  "windowStart": "2026-11-24 10:33",
+  "windowEnd": "2026-11-25 10:33",
+  "hours": 24,
+  "picked": [
+    "Even the best AI agents struggle with everyday life",
+    "Data centers are getting their own natural gas power plants",
+    "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+    "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+    "Kodak SlideTag",
+    "报名从速｜来MEET2027！听AI前沿实践者交出“判断”"
+  ],
+  "items": [
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "source": "TechCrunch",
+      "time": "11-25 05:33",
+      "time_inferred": false,
+      "score": 10
+    },
+    {
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "source": "TechCrunch",
+      "time": "11-24 23:51",
+      "time_inferred": false,
+      "score": 9
+    },
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+      "source": "TechCrunch",
+      "time": "11-25 08:12",
+      "time_inferred": false,
+      "score": 8
+    },
+    {
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom. xAI’s",
+      "source": "MIT Tech Review",
+      "time": "11-24 19:00",
+      "time_inferred": false,
+      "score": 6
+    },
+    {
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "source": "TechCrunch",
+      "time": "11-25 05:19",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "source": "TechCrunch",
+      "time": "11-25 02:30",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "source": "ArsTechnica",
+      "time": "11-25 01:34",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "source": "TechCrunch",
+      "time": "11-25 00:46",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+      "url": "https://www.qbitai.com/2026/11/512454.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "11-24 21:33",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
+      "url": "https://www.qbitai.com/2026/11/512383.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "11-24 19:33",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+      "url": "https://www.qbitai.com/2026/11/512330.html",
+      "summary": "中国AI数据平台加速崛起",
+      "source": "量子位",
+      "time": "11-24 11:30",
+      "time_inferred": false,
+      "score": 5
+    },
+    {
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+      "source": "TechCrunch",
+      "time": "11-25 08:10",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "source": "TechCrunch",
+      "time": "11-25 05:48",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "source": "TechCrunch",
+      "time": "11-25 00:10",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+      "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+      "source": "ArsTechnica",
+      "time": "11-24 22:56",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+      "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+      "source": "TechCrunch",
+      "time": "11-24 21:29",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "summary": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that",
+      "source": "MIT Tech Review",
+      "time": "11-24 21:10",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "url": "https://www.qbitai.com/2026/11/512362.html",
+      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "source": "量子位",
+      "time": "11-24 14:35",
+      "time_inferred": false,
+      "score": 4
+    },
+    {
+      "title": "具身行业，终于等来了自己的通用智能时刻",
+      "url": "https://www.qbitai.com/2026/11/512264.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "11-24 13:33",
+      "time_inferred": false,
+      "score": 3
+    },
+    {
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "source": "TechCrunch",
+      "time": "11-25 05:32",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "source": "TechCrunch",
+      "time": "11-25 01:00",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As",
+      "source": "MIT Tech Review",
+      "time": "11-24 23:15",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "source": "ArsTechnica",
+      "time": "11-24 20:30",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+      "url": "https://www.qbitai.com/2026/11/512305.html",
+      "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+      "source": "量子位",
+      "time": "11-24 11:21",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+      "url": "https://www.qbitai.com/2026/11/512297.html",
+      "summary": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
+      "source": "量子位",
+      "time": "11-24 10:36",
+      "time_inferred": false,
+      "score": 2
+    },
+    {
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "source": "ArsTechnica",
+      "time": "11-25 06:36",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "What's going on with the Riemann hypothesis?",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "source": "ArsTechnica",
+      "time": "11-25 04:34",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "source": "ArsTechnica",
+      "time": "11-25 02:47",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+      "source": "ArsTechnica",
+      "time": "11-25 02:30",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "How brewers can protect beers from smoke-tainted hops",
+      "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+      "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
+      "source": "ArsTechnica",
+      "time": "11-25 02:18",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "source": "TechCrunch",
+      "time": "11-25 02:02",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
+      "url": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+      "summary": "Technical details are still limited, but we already know it's fun to drive.",
+      "source": "ArsTechnica",
+      "time": "11-25 00:58",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "source": "TechCrunch",
+      "time": "11-25 00:02",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Homo erectus lived in the rainforest alongside Denisovans",
+      "url": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+      "summary": "You can learn a surprising amount from a few loose teeth.",
+      "source": "ArsTechnica",
+      "time": "11-25 00:01",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+      "url": "https://www.qbitai.com/2026/11/512451.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "11-24 21:33",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
+      "url": "https://www.qbitai.com/2026/11/512411.html",
+      "summary": "",
+      "source": "量子位",
+      "time": "11-24 20:33",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+      "summary": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+      "source": "ArsTechnica",
+      "time": "11-24 20:00",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Google Cloud 出海峰会报名开启",
+      "url": "https://www.qbitai.com/2026/11/512370.html",
+      "summary": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+      "source": "量子位",
+      "time": "11-24 14:52",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "Kodak SlideTag",
+      "url": "https://www.producthunt.com/products/kodak-slidetag",
+      "summary": "A 1935 film-slide E-Ink frame that tracks like an AirTag Discussion | Link",
+      "source": "Product Hunt",
+      "time": "11-24 11:40",
+      "time_inferred": false,
+      "score": 0
+    },
+    {
+      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+      "url": "https://www.qbitai.com/2026/11/512329.html",
+      "summary": "12.9 北京，来MEET2027现场",
+      "source": "量子位",
+      "time": "11-24 11:33",
+      "time_inferred": false,
+      "score": 0
+    }
+  ],
+  "sourceReport": [
+    {
+      "source": "量子位",
+      "status": "ok",
+      "reason": null,
+      "count": 6
+    },
+    {
+      "source": "量子位",
+      "status": "ok",
+      "reason": null,
+      "count": 5
+    },
+    {
+      "source": "机器之心",
+      "status": "skipped",
+      "reason": "返回反爬 HTML 页面，无新闻内容",
+      "count": 0
+    },
+    {
+      "source": "36氪AI",
+      "status": "skipped",
+      "reason": "返回反爬 HTML 页面，无新闻内容",
+      "count": 0
+    },
+    {
+      "source": "TechCrunch",
+      "status": "ok",
+      "reason": null,
+      "count": 14
+    },
+    {
+      "source": "ArsTechnica",
+      "status": "ok",
+      "reason": null,
+      "count": 11
+    },
+    {
+      "source": "AI News",
+      "status": "skipped",
+      "reason": "HTTP 502",
+      "count": 0
+    },
+    {
+      "source": "MIT Tech Review",
+      "status": "ok",
+      "reason": null,
+      "count": 3
+    },
+    {
+      "source": "VentureBeat",
+      "status": "skipped",
+      "reason": "HTTP 429 限流",
+      "count": 0
+    },
+    {
+      "source": "Product Hunt",
+      "status": "ok",
+      "reason": null,
+      "count": 1
+    }
+  ]
+}
